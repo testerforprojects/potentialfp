@@ -1,1 +1,1 @@
-This repository is store information regarding the rock-paper-scissor project
+This repository is store information for any potential field project for my class
